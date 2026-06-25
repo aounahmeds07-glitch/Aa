@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "Professional Mobile-First Accounting & Voucher Management System with Double-Entry rules, Reports, and Role Access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
